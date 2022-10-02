@@ -1,0 +1,6 @@
+.auth-page {
+  height: 100vh;
+  background: no-repeat
+    url(https://upload.wikimedia.org/wikipedia/commons/1/1a/24701-nature-natural-beauty.jpg);
+  background-size: cover;
+}
